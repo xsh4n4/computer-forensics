@@ -1,10 +1,4 @@
 # 🕵️‍♂️ Computer Forensics 
-[![xiosec - Computer-forensics](https://img.shields.io/static/v1?label=xiosec&message=Computer-forensics&color=blue&logo=github)](https://github.com/xiosec/Computer-forensics)
-[![stars - Computer-forensics](https://img.shields.io/github/stars/xiosec/Computer-forensics?style=social)](https://github.com/xiosec/Computer-forensics)
-[![forks - Computer-forensics](https://img.shields.io/github/forks/xiosec/Computer-forensics?style=social)](https://github.com/xiosec/Computer-forensics)
-[![GitHub tag](https://img.shields.io/github/tag/xiosec/Computer-forensics?include_prereleases=&sort=semver)](https://github.com/xiosec/Computer-forensics/releases/)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues - Computer-forensics](https://img.shields.io/github/issues/xiosec/Computer-forensics)](https://github.com/xiosec/Computer-forensics/issues)
 
 Curated list of awesome free forensic analysis tools and resources.
 <a href="#license"><img align="right" src="resources/images/logo.png"></a>
